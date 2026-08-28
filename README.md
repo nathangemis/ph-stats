@@ -3,7 +3,9 @@
 Count Product Hunt submissions and featured launches over any time range.
 
 > 👋 If you post one of these charts, a mention would genuinely make my day !
+>
 > I'm [Nathan Gemis](https://www.linkedin.com/in/nathan-gemis/) on LinkedIn.
+>
 > No obligation, and I'd love to see what you find.
 
 Product Hunt's GraphQL API exposes `totalCount` on the `posts` connection, so
